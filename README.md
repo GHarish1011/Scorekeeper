@@ -2,10 +2,6 @@
 
 A simple and interactive ping pong score tracking app built using HTML, Bulma CSS, and vanilla JavaScript. It allows two players to increment their scores and select the winning point threshold. Includes reset functionality and visual feedback on game over.
 
-## 🌐 Live Demo
-[View on GitHub Pages](https://your-username.github.io/ping-pong-score-keeper/)  
-*(Replace `your-username` with your actual GitHub username once hosted)*
-
 ## 📁 Project Structure
 
 - `index.html` – UI layout using Bulma CSS
